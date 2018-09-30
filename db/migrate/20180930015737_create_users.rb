@@ -6,3 +6,4 @@ class CreateUsers < ActiveRecord::Migration[5.1]
     t.float :balance
   end
 end
+end
